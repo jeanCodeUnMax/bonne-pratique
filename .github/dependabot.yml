@@ -1,0 +1,3 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"\n    directory: "/"\n    schedule:\n      interval: "weekly"\n    open-pull-requests-limit: 5\n
